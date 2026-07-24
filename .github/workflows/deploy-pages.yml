@@ -36,4 +36,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# Pages source enabled; this commit triggers a fresh deployment.
+# GitHub Pages was enabled with GitHub Actions; refresh deployment trigger.
